@@ -46,7 +46,7 @@ This command adds changes to the staging area of the working directory. It helps
 
 **$ git add .** : this means that you want to add all the files
 
-**$ git add [filename**: this means that you want to add certain files
+**$ git add [filename]**: this means that you want to add certain files
 
 * ### $ git commit -m "Any comment"
 This command helps you to record the permanent snapshort in the history. There are couple of ways to do it but the better and the quickest way to do is by this command.
