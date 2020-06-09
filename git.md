@@ -37,7 +37,7 @@ http://git-scm.com/download/win
 * ### $ git clone [url]
 This command is used to clone, which means to download a repository including all the files that already exist on Github.
 Here's how to use it:
-! [Git clone](clone)
+! [Git clone] (clone.jpn)
 
 
 
