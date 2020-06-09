@@ -38,11 +38,13 @@ http://git-scm.com/download/win
 This command is used to clone, which means to download a repository including all the files that already exist on Github.
 
 Here's how to implement it:
+![clone](https://github.com/param31/Beginner-s-guide-to-git/blob/master/Images/clone.png)
 
 * ### $ git status
 This command tells us about the current state of the working directory. It tells you about what staged changes and files that aren't tracked by the Git.
 
 Here's how to implement it:
+![status](https://github.com/param31/Beginner-s-guide-to-git/blob/master/Images/status.png)
 
 * ### $ git add
 This command adds changes to the staging area of the working directory. It helps to tell git that you want to add updates in a file.
@@ -56,17 +58,20 @@ This command adds changes to the staging area of the working directory. It helps
 This command helps you to record the permanent snapshort in the history. There are couple of ways to do it but the better and the quickest way to do is by this command.
 
 Here's how to implement it:
+![add & commit](https://github.com/param31/Beginner-s-guide-to-git/blob/master/Images/add%20%26%20commit.png)
 
 * ### $ git push
 This command helps to push all the local branches to Github. After this you would be able to see your changes in your Github
 
-Here's how to implement add and push:
-![add & push](https://github.com/param31/Beginner-s-guide-to-git/blob/master/Images/add%20%26%20commit.png)
+Here's how to implement it:
+![push](https://github.com/param31/Beginner-s-guide-to-git/blob/master/Images/push.png)
+
 
 * ### $ git pull
 This command let you update your local branch with all the new commits from the corresponding remote branch on Github. After using this command you would be able to see all the changes made in the respository by other developers. 
 
 Here's how to implement it:
+![pull](https://github.com/param31/Beginner-s-guide-to-git/blob/master/Images/pull.png)
 
 
 
