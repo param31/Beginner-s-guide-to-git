@@ -37,11 +37,6 @@ http://git-scm.com/download/win
 * ### $ git clone [url]
 This command is used to clone, which means to download a repository including all the files that already exist on Github.
 Here's how to use it:
-<<<<<<< HEAD
-<img src="clone.png"/>
-=======
-! [Git Clone] (/Users/im_param31/Desktop/Beginner-s-guide-to-git/Images/clone.png)
->>>>>>> 6d2ea1a771cb338c4edfd22fdaeae53511e655e0
 
 
 
