@@ -33,3 +33,8 @@ http://git-scm.com/download/win
 * $ git pull
 * $ git clone
 
+## How to implement the commands?
+* ### $ git init
+
+
+
