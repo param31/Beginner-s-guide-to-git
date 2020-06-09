@@ -36,10 +36,13 @@ http://git-scm.com/download/win
 ## How to implement the commands?
 * ### $ git clone [url]
 This command is used to clone, which means to download a repository including all the files that already exist on Github.
-Here's how to use it:
+
+Here's how to implement it:
 
 * ### $ git status
 This command tells us about the current state of the working directory. It tells you about what staged changes and files that aren't tracked by the Git.
+
+Here's how to implement it:
 
 * ### $ git add
 This command adds changes to the staging area of the working directory. It helps to tell git that you want to add updates in a file.
@@ -48,14 +51,22 @@ This command adds changes to the staging area of the working directory. It helps
 
 **$ git add [filename]**: this means that you want to add certain files
 
+Here's how to implement it:
+
 * ### $ git commit -m "Any comment"
 This command helps you to record the permanent snapshort in the history. There are couple of ways to do it but the better and the quickest way to do is by this command.
+
+Here's how to implement it:
 
 * ### $ git push
 This command helps to push all the local branches to Github. After this you would be able to see your changes in your Github
 
+Here's how to implement it:
+
 * ### $ git pull
 This command let you update your local branch with all the new commits from the corresponding remote branch on Github. After using this command you would be able to see all the changes made in the respository by other developers. 
+
+Here's how to implement it:
 
 
 
