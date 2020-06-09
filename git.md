@@ -25,16 +25,19 @@ http://git-scm.com/download/mac
 http://git-scm.com/download/win
 
 ## Basic Commands
-* $ git init
-* $ git add
+* $ git clone
 * $ git status
+* $ git add
 * $ git commit
 * $ git push
 * $ git pull
-* $ git clone
+
 
 ## How to implement the commands?
-* ### $ git init
+* ### $ git clone [url]
+This command is used to clone, which means to download a repository including all the files that already exist on Github.
+Here's how to use it:
+! [Git clone](clone)
 
 
 
