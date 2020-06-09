@@ -43,7 +43,9 @@ This command tells us about the current state of the working directory. It tells
 
 * ### $ git add
 This command adds changes to the staging area of the working directory. It helps to tell git that you want to add updates in a file.
+
 **$ git add .** : this means that you want to add all the files
+
 **$ git add [filename**: this means that you want to add certain files
 
 * ### $ git commit -m "Any comment"
